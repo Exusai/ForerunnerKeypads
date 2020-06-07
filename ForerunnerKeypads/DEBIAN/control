@@ -1,0 +1,9 @@
+Package: com.exusai.forerunnerkeypads
+Name: ForerunnerKeypads
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Add forerunner keypads
+Author: faber
+Maintainer: faber
+Section: Themes
+
